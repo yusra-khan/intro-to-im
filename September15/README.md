@@ -1,6 +1,6 @@
 ## Self-portrait with Processing Assignment
 
-**Screenshot:**
+**Screenshot:**<br>
 ![](screenshot.png)
 
 - I tried to base my portrait on my bitmoji.
