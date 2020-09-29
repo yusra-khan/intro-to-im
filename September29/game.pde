@@ -115,6 +115,7 @@ class Game {
     //change level when all bricks removed
     if (hits==20) {
       levelChange=true;
+      //increase speed
       xspeed = (abs(xspeed)+1)*(xspeed/abs(xspeed));
       yspeed = (abs(yspeed)+1)*(yspeed/abs(yspeed));
     }
@@ -233,7 +234,7 @@ void mouseClicked() {
     game.ballx=168;
     game.bally=350;
     game.score=0;
-    xspeed=2;
-    yspeed=5;
+    game.xspeed=2;
+    game.yspeed=5;
   }
 }
