@@ -14,7 +14,8 @@ The game play:
 - Background music different for every level
 - Sound of bullets
 
-**18th October:**
+
+### **18th October:**
 
 - I selected all the images to be used in the game:
   - homescreen background
