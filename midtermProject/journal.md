@@ -30,3 +30,13 @@ The game play:
   - backround music for three levels
   - laser/bullet sounds for player and enemy
   - blast sound
+
+
+### **24th October:**
+
+- Created the homescreen without any problem
+- Since the Instructions had a lot of written text I decided to use a 700x1000 px picture with the written instructions rather than writing through code. I used Photoshop to make the picture
+- Figuring out the rolling background without making it seem like different images was difficult to figure out. Rather than using the same image repeatedly, I saved an inverted and flipped copy and displayed these two continuously one after the other.
+- The movement of the spaceship was easy to implement once I figured out how to make use of the keyPressed() and keyReleased() functions.
+- Coded random appearance of enemy.
+- I am currently stuck on how to track the fired bullets.
