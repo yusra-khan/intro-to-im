@@ -2,7 +2,7 @@
 
 This is a space shooter game. When you run the program, the game logo appears on the window and then it transitions into the homescreen.
 
-![]{screenshots/logo.png)
+![](screenshots/logo.png)
 
 ![](screenshots/homescreen.png)
 
