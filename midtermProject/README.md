@@ -2,25 +2,25 @@
 
 This is a space shooter game. When you run the program, the game logo appears on the window and then it transitions into the homescreen.
 
-![]{logo.png)
+![]{screenshots/logo.png)
 
-![](homescreen.png)
+![](screenshots/homescreen.png)
 
 There are two buttons: PLAY and INSTRUCTIONS. The Instructions explain how the game works. There is a BACK button to go back to the homescreen.
 
-![](instructions.png)
+![](screenshots/instructions.png)
 
 The game starts with the user-controoled spaceship in the bottom-center of the screen. It can move sideways using the LEFT and RIGHT arrow keys. The UP key is used to shoot bullets. There is an enemy ship at the top of the screen shooting at regular intervals (these start ou big and become smaller). There is also an asteroid of random size, corresponding speed and random position moving downwards.The smaller the asteroid, the higher its speed.
 
-![](screenshot1.png)
+![](screenshots/screenshot1.png)
 
 There is a health bar displayed at top right. Initial health is 100. Each enemy bullet decreases it by 20 and each asteroid by 10. Enemy is killed (and a new one respawns) after being hit twice by player bullets. The position of the enemy is always random. There is a score counter at top left. It increases by 1 every 10 frames, by 10 when an enemy is killed and by 50 when a boss is killed. There are two powerups: bullet absorber that surrounds the ship and increases health by 10 whenever a bullet hits and a health booster that restores health.
 
-![](screenshot2.png)
+![](screenshots/screenshot2.png)
 
-![](screenshot3.png)
+![](screenshots/screenshot3.png)
 
-![](screenshot4/png)
+![](screenshots/screenshot4/png)
 
 Each stage has different background and music.
 
@@ -29,35 +29,35 @@ Each stage has different background and music.
 - 1 stationary enemy at a time.
 - Stationary boss with uniform bullets
 
-![](stage1.png)
+![](screenshots/stage1.png)
 
-![](boss1.png)
+![](screenshots/boss1.png)
 
 **Stage2:**
 - 2 asteroids at a time.
 - 1 moving enemy.
 - Moving boss with uniform bullets
 
-![](stage2.png)
+![](screenshots/stage2.png)
 
-![](boss2.png)
+![](screenshots/boss2.png)
 
 **Stage3:**
 - 2 asteroids at a time.
 - 2 moving enemies.
 - Moving boss with splayed bullets.
 
-![](stage3.png)
+![](screenshots/stage3.png)
 
-![](boss3.png)
+![](screenshots/boss3.png)
 
 The game is lost when health finishes.
 
-![](gameover.png)
+![](screenshots/gameover.png)
 
 It is won when the boss of the 3rd stage is killed.
 
-![](gamewin.png)
+![](screenshots/gamewin.png)
 
 Disclaimer: Since I couldn't win the game (I made it too hard lol), I called the gamewin screen on losing for the purpose of displaying in the screenshot.
 
