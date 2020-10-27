@@ -1,5 +1,5 @@
 /*
-Midterm Project
+Midterm Project: Space Wars
 Yusra Khan
 October 27
 */
