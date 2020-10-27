@@ -40,3 +40,25 @@ The game play:
 - The movement of the spaceship was easy to implement once I figured out how to make use of the keyPressed() and keyReleased() functions.
 - Coded random appearance of enemy.
 - I am currently stuck on how to track the fired bullets.
+
+
+### **26th October:**
+
+- It took me a long time to figure out the bullets;
+- Initially, I could only see a dynamic 2d array as a solution and that is difficult to implement in Java.
+- I decided to create static 2d arrays with enough elements to contain all the bullets on screen at any specific time.
+- Elements containing bullets that run off screen get recycled to store the position if the next bullet to be created.
+- Created all the other parts of the game:
+  - Difference in enemy behavior across stages.
+  - Transition between stages.
+  - The 3 bosses and their behavior.
+  - Conditions for enemy and boss to be killed.
+  - Health bar to track damage to ship.
+  - Score counter.
+  - Game over conditions and screen.
+  - Game win conditions and screen.
+  - Asteroids - random positions and size
+  - 2 powerups: to absorb bullets and to restore health.
+- Coding the bosses was tricky. They fired 5 bullets at once and any of these could hit the spaceship. All their positions had to be individually stored.
+- I got around this by creating two 2d arrays to store x-coordinates and y-coordinates of bullets respectively.
+- I have not been able to win the game even once :P
