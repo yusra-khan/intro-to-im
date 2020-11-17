@@ -10,7 +10,7 @@ For this project I assigned four different notes (NOTE_E3, NOTE_B3, NOTE_CS3, NO
 
 ![](pic2.png)
 
-![Here](https://youtu.be/qa_GsqsyMl4) is a link to a video of the working project.
+[Here](https://youtu.be/qa_GsqsyMl4) is a link to a video of the working project.
 
 ### **Difficulties:**
 - I did not face any significant problems in this project.
